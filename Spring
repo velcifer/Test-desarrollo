@@ -1,0 +1,19 @@
+Es un framework Open Source que facilita la creación de aplicaciones de todo tipo en Java, Kotlin y Groovy.
+Si bien es cierto que, por lo que es más conocido es por la inyección de dependencias, Spring Framework está dividido en diversos módulos que podemos utilizar, 
+ofreciéndonos muchas más funcionalidades.
+
+
+Ejemplo hola mundo : 
+
+
+@SpringBootApplication
+@RestController
+public class Application {
+
+    @GetMapping("/hello")
+    public String hello() {
+        return "Hello Bootiful!";
+    }
+}
+
+
