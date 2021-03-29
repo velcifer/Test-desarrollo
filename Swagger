@@ -1,0 +1,4 @@
+//Se pueden usar para generar automáticamente un documento de API abierta basado en el código mismo. Esto incrusta la descripción de la API en el código fuente de un proyecto y 
+//se denomina informalmente desarrollo de API de código primero o ascendente.
+
+ https://mvnrepository.com/artifact/io.swagger/swagger-codegen-maven-plugin
