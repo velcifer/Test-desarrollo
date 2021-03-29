@@ -1,0 +1,6 @@
+//RabbitMQ es un broker de mensajería de código abierto, distribuido y escalable, que sirve como intermediario para la comunicación eficiente entre productores y consumidores.
+
+componentes podemos encontrar:
+
+A)  Intercambio, Clave de enrutamiento, Cola, Encuadernación, Host virtual, 
+
