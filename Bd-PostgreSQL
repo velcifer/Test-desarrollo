@@ -1,0 +1,5 @@
+PostgreSQL: Gestor de bases de datos relacional donde podemos almacenar, crear, modificar y solicitar nuestros datos.
+
+Yo utilizo tres gestores de bd Sql-server, PosgretSQL y MySQL: como bd no SQL utilizo Firebase, Mongobd, Cassandra, SQlite.
+
+Consultas, joins, backup, creación y administración, errores y embotellamientos.
