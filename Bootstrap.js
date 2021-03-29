@@ -8,7 +8,9 @@ Ejemplo de Bootstrap 4 y este js es es que se coloca en mi proyecto para poder t
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 
-Ejemplo de un proyecto una pagina al estilo netflix donde uso (javascript, html, css , bootstrap)
+Ejemplo de uno de mis proyecto una pagina al estilo netflix donde uso (javascript, html, css , bootstrap)
 
 Pagina: https://velcifer.github.io/App-Peliculas/
+
+Grid:  https://velcifer.github.io/Grid-css/
 
